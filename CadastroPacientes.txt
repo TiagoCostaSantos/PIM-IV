@@ -1,0 +1,42 @@
+Nome: Tiago C. Santos
+CPF: 46835965850
+Telefone: 16994402563
+Rua: Av. Eldourado
+Numero: 253
+Bairro: dahma
+Cidade: Indaiatuba
+Estado: SP
+CEP: 321654987
+Data de nascimento: 7/6/1950
+Email: TiagoC@gmail.com
+Data do diagn�stico: 06/06/2022
+comorbidade: Asma
+
+Nome: tiagocosta
+CPF: 52736965850
+Telefone: 16997705165
+Rua: av vale 
+Numero: 322
+Bairro: morumbi
+Cidade: s�o paulo
+Estado: s�o paulo
+CEP: 12332423
+Data de nascimento: 1/2/1950
+Email: tiagocosta7603@gmail.com
+Data do diagn�stico: 01/02/2022
+comorbidade: tosse
+
+Nome: tiago
+CPF: 52736965850
+Telefone: 16997705165
+Rua: rua2
+Numero: 2
+Bairro: arar
+Cidade: rarara
+Estado: sp
+CEP: 14804238
+Data de nascimento: 1/2/2023
+Email: tiagocost7603@gmail.com
+Data do diagn�stico: 01/05/2022
+comorbidade: nenhuma
+
